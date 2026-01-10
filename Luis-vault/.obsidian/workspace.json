@@ -20,8 +20,121 @@
               "icon": "lucide-file",
               "title": "O que vamos Estudar"
             }
+          },
+          {
+            "id": "92730333a1f0f495",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS - Solutions architect/Topicos/1 - Amazon EC2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1 - Amazon EC2"
+            }
+          },
+          {
+            "id": "6e658ffda6e062f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prova Software Architect.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Prova Software Architect"
+            }
+          },
+          {
+            "id": "7223479f7ccd7a9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software Architect/3 - Fundamentação SGBD`s/Bancos de Dados.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bancos de Dados"
+            }
+          },
+          {
+            "id": "fc684872a49c0e40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cronograma de Estudos/Cronograma de Estudos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cronograma de Estudos"
+            }
+          },
+          {
+            "id": "98d4a2cb91b38144",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software Architect/1 - Introdução a Arquitetura de Software/Aula 1 - Introdução à arquitetura de software.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aula 1 - Introdução à arquitetura de software"
+            }
+          },
+          {
+            "id": "f1d033df9db2baa4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software Architect/Provas e simulados gerados/Simulado dia 5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Simulado dia 5"
+            }
+          },
+          {
+            "id": "9bddb163323329fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software Architect/Provas e simulados gerados/Revisão dia 5-01, erros simulado 100Q.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Revisão dia 5-01, erros simulado 100Q"
+            }
+          },
+          {
+            "id": "c3ca95e1e45b2d56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software Architect/Curso devops/DevOps.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DevOps"
+            }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -78,7 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 384.5
   },
   "right": {
     "id": "2cdebf9f4ad4cd52",
@@ -94,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O que vamos Estudar.md",
+                "file": "Software Architect/1 - Introdução a Arquitetura de Software/Aula 2 - Processo e modularização.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +217,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for O que vamos Estudar"
+              "title": "Backlinks for Aula 2 - Processo e modularização"
             }
           },
           {
@@ -169,7 +282,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -183,38 +296,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "0e06552e23cb3005",
+  "active": "c3ca95e1e45b2d56",
   "lastOpenFiles": [
+    "Software Architect/Provas e simulados gerados/Simulado 2 - dia 5.md",
+    "Software Architect/Curso devops/DevOps.md",
+    "Software Architect/Curso devops",
+    "Software Architect/Provas e simulados gerados/Revisão dia 5-01, erros simulado 100Q.md",
+    "Software Architect/Provas e simulados gerados/Simulado dia 5.md",
+    "Software Architect/Provas e simulados gerados/Prova Software Architect.md",
+    "Software Architect/5 - LGPD - Princípios básicos/LGPD - Lei Geral de Proteção de Dados.md",
+    "Software Architect/Provas e simulados gerados",
     "Simulados - AWS CSAA.md",
+    "Software Architect/1 - Introdução a Arquitetura de Software/Aula 1 - Introdução à arquitetura de software.md",
+    "Software Architect/1 - Introdução a Arquitetura de Software/Aula 2 - Processo e modularização.md",
+    "Software Architect/5.2 - Desenvolvimento Seguro",
+    "Software Architect/5.1 - SAGA Pattern",
+    "Software Architect/4.2 - Microservices 2",
+    "Software Architect/4.1 - Microsservices",
+    "Software Architect/4 - Qualidade de Software",
+    "Software Architect/3.2 - Desenvolvimento Serverless",
+    "Software Architect/3.1 - DevOps (IaC and CI - CD)",
+    "Software Architect/2.2 Kubernetes II",
+    "Cronograma de Estudos/Cronograma de Estudos.md",
+    "Software Architect/3 - Fundamentação SGBD`s/Bancos de Dados.md",
     "AWS - Solutions architect/O que vamos Estudar.md",
-    "Software Architect/Introdução a Arquitetura de Software/Processos e Modularização.md",
-    "Software Architect/Introdução a Arquitetura de Software/Objetivo.md",
-    "Software Architect/Introdução a Arquitetura de Software",
-    "Software Architect/Conhecimento Web/Testes Unitário e de Integração.md",
-    "Software Architect/Conhecimento Web/Teste pratico ....md",
-    "Software Architect/Conhecimento Web/Ss90-.md",
-    "Software Architect/Conhecimento Web/SQS vs SNS.md",
-    "Software Architect/Conhecimento Web/Projeto Software.md",
-    "Software Architect/Conhecimento Web/Mensageria - Kafka e RabbitMQ.md",
-    "Software Architect/Conhecimento Web/Interview Questions.md",
-    "Software Architect/Conhecimento Web/Http - outros protocolos.md",
-    "Software Architect/Conhecimento Web/Differences between REST and SOAP.md",
-    "Software Architect/Conhecimento Web/Difference between JAX-RS and Spring Rest.md",
-    "Software Architect/Conhecimento Web",
-    "Software Architect",
+    "AWS - Solutions architect/Topicos/1 - Amazon EC2.md",
+    "Software Architect/1 - Introdução a Arquitetura de Software/Processos e Modularização.md",
+    "Software Architect/3 - Fundamentação SGBD`s/Banco de dados de Documentos - Mongo DB.md",
     "AWS - Solutions architect/Topicos/Amazon API Gateway.md",
-    "Untitled 7.md",
-    "AWS - Solutions architect/Topicos/AWS CloudFormation.md",
-    "AWS - Solutions architect/Topicos/AWS CloudTrail.md",
-    "AWS - Solutions architect/Topicos/Elastic Load Balancing.md",
-    "AWS - Solutions architect/Topicos/Amazon Route S3.md",
-    "AWS - Solutions architect/Topicos/Amazon Kinesis.md",
-    "AWS - Solutions architect/Topicos/Amazon CloudFront.md",
-    "Untitled 8.md",
-    "AWS - Solutions architect/Topicos/Amazon CloudWatch.md",
-    "AWS - Solutions architect/Topicos/AWS Step Functions.md",
-    "AWS - Solutions architect/Topicos/Amazon SQS.md",
-    "AWS - Solutions architect/Topicos",
-    "AWS - Solutions architect"
+    "AWS - Solutions architect/Topicos/Amazon Aurora.md",
+    "Conhecimento Web/Testes Unitário e de Integração.md",
+    "Conhecimento Web/Teste pratico ....md",
+    "Conhecimento Web/Ss90-.md",
+    "Conhecimento Web/SQS vs SNS.md",
+    "Conhecimento Web/Projeto Software.md",
+    "Conhecimento Web/Mensageria - Kafka e RabbitMQ.md",
+    "Conhecimento Web/Interview Questions.md",
+    "Conhecimento Web/Http - outros protocolos.md",
+    "Conhecimento Web/Differences between REST and SOAP.md"
   ]
 }
